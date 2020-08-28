@@ -3,4 +3,7 @@
     <string name="app_name">Dicee</string>
     <string name="button_text">Baci</string>
     <string name="description_button">Baca kockice</string>
+    <string name="casino_logo">Casino logo</string>
+    <string name="left_dice_image">Slika lijeve kocke</string>
+    <string name="right_dice_image">Slika desne kocke</string>
 </resources>

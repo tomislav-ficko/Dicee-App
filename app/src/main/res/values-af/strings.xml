@@ -3,4 +3,7 @@
     <string name="app_name">Dicee</string>
     <string name="button_text">Rol</string>
     <string name="description_button">Rol die dobbelsteen</string>
+    <string name="casino_logo">Casino logo</string>
+    <string name="left_dice_image">Dobbelsteentjie links</string>
+    <string name="right_dice_image">Regte dobbelsteenbeeld</string>
 </resources>
